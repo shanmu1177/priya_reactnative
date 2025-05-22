@@ -10,7 +10,7 @@ const welcome = () => {
 };
 
 const styles=StyleSheet.create({
-    red:{git 
+    red:{
         color:'red'
  }
 });
